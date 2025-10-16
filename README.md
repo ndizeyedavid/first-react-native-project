@@ -1,6 +1,17 @@
-# Welcome to your Expo app 👋
+# StickerSmash App 🎨
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to StickerSmash - a fun and creative mobile application that allows you to add stickers and emojis to your photos!
+
+## Project Showcase
+
+Here are some screenshots of the StickerSmash app in action:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/IMG_0324.PNG" alt="App Home Screen" width="200" />
+  <img src="screenshots/IMG_0326.PNG" alt="Editing Interface" width="200" />
+  <img src="screenshots/IMG_0328.PNG" alt="Emoji Picker" width="200" />
+  <img src="screenshots/IMG_0329.PNG" alt="Sticker Placement" width="200" />
+</div>
 
 ## Get started
 
@@ -15,15 +26,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## Get a fresh project
 
@@ -41,10 +43,3 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
